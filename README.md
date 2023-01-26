@@ -35,4 +35,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakruu&" alt="bakruu" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bakruu&" alt="bakruu" />
