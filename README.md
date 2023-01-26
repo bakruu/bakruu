@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mertali@bakruu.com**
 
-- 📄 Know about my experiences [bakruu.com](bakruu.com)
+- 📄 Know about my experiences [bakruu.com](https://bakruu.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
