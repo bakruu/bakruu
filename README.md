@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Ali</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<img align="center" alt="Coding" src="https://i.hizliresim.com/meyfgp2.gif">
+<img align="center" alt="Coding" src="https://i.hizliresim.com/6j96ea0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakruu&label=Profile%20views&color=0e75b6&style=flat" alt="bakruu" /> </p>
 
