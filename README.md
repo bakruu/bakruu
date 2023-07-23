@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Ali</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate Problem Solver from Turkey</h3>
 
 <img align="center" alt="Coding" src="https://i.hizliresim.com/jfrl3bj.gif">
 
